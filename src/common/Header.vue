@@ -28,7 +28,8 @@ import logoInspire from "../assets/logoInspire.png"
 header{
     display:flex;
     justify-content: space-between;
-    padding: 4.2vh 7.6vh 4.2vh 7.7vh;  
+    padding: 4.2vh 7.6vh 4.2vh 7.7vh;
+    align-items: center;
 }
 nav{
     display: flex;
