@@ -39,10 +39,6 @@ const toggleMenu = () => {
             <a href="#">Início</a>
             <a href="#">Galeria</a>
             <a href="#">Favoritos</a>
-            <div class="mobile-user">
-                <span>Minha Conta</span>
-                <Icon class="user-icon" icon="material-symbols:person-outline" width="28" />
-            </div>
         </div>
     </header>
 </template>
