@@ -56,7 +56,7 @@ loadingApiImgs()
     }
 
     .inspire-text {
-        font-size: 2rem;
+        font-size: 2.3vh;
     }
 
     .cards-grid {
