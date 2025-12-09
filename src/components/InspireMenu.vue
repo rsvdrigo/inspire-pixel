@@ -36,7 +36,7 @@ loadingApiImgs()
 }
 
 .inspire-text {
-    font-size: 4vh;
+    font-size: 3.5vh;
     font-weight: 400;
     margin-bottom: 25px;
     font-family: vars.$font-poppins;
