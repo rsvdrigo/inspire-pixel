@@ -2,6 +2,8 @@
 
 **Inspire Pixel** é uma aplicação web de galeria de fotos imersiva, desenvolvida para explorar o poder do **Vue 3** com o ecossistema **Vite**. O projeto consome uma API externa para fornecer um feed de inspiração visual, combinando design responsivo, interatividade e performance.
 
+![Demonstração do Inspire Pixel](https://i.imgur.com/ZBgmBbi.png)
+
 ---
 
 ## 🚀 Sobre o Projeto
@@ -66,14 +68,4 @@ inspire-pixel/
 │   ├── components/      # Componentes específicos de funcionalidades
 │   │   ├── Card.vue     # Card individual da imagem (Lógica de Like)
 │   │   ├── Hero.vue     # Secção de destaque (Banner principal)
-│   │   └── InspireMenu.vue # Contentor da grelha de imagens (Chamada API)
-│   ├── style/           # Arquitetura CSS (Sass)
-│   │   ├── _main.scss     # Importação de fontes (Poppins) e layout base
-│   │   ├── _reset.scss    # Reset CSS global
-│   │   ├── _variables.scss # Variáveis de cores e fontes
-│   │   └── index.scss     # Ponto de entrada dos estilos
-│   ├── App.vue          # Componente Raiz (Orquestrador)
-│   └── main.js          # Inicialização da aplicação Vue
-├── index.html           # Entry point HTML
-├── package.json         # Gestão de dependências e scripts
-└── vite.config.js       # Configuração do Vite (Alias '@' para src)
+│   │   └── InspireMenu.vue # Contentor da grel
