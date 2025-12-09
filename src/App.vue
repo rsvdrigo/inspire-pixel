@@ -9,7 +9,7 @@ import InspireMenu from './components/InspireMenu.vue';
 <template>
 <Header/>
 <Hero/>
-<InspireMenu/>
+<InspireMenu class="container"/>
 <Footer/>
 </template>
 
